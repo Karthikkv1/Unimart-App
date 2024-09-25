@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "984014356051",
+    "project_id": "mall-17759",
+    "storage_bucket": "mall-17759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984014356051:android:f4dba97963d64167add0a6",
+        "android_client_info": {
+          "package_name": "com.example.unimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984014356051-g4k79v5ec3pj2e146osi2j1h2kilmrfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unimart",
+            "certificate_hash": "c96740299028c3846c41a4e57498d0e6ee71cd08"
+          }
+        },
+        {
+          "client_id": "984014356051-0cj33vbl7fjiqu3gdjq22kgv6dsmih9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4uJB7lPOT7wic1yj4VBhOfL0pbLnNfGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984014356051-0cj33vbl7fjiqu3gdjq22kgv6dsmih9f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984014356051-u0duqk1pp590g8tml1esuc78t4of1nko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.unimart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+# File creted on 21-05-2024 9:01PM
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: assets/logos/Splash_Screen_Dark_Mode.png
+  image_dark: assets/logos/Splash_Screen_Light_Mode.png
+  
+  # To use in above android 12 versions
+  android_12: 
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: assets/logos/Splash_Screen_Dark_Mode.png
+    image_dark: assets/logos/Splash_Screen_Light_Mode.png
+
+  web: false  
+
